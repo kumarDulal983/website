@@ -2,7 +2,7 @@
 
 This is the website for the [UK Hackspace Foundation](hackspace.org.uk).
 
-# Development
+# Developments
 
 ## Requirements
 You'll need a development environment with PostgreSQL (ideally 9.5) and Python 3
@@ -12,7 +12,7 @@ The easiest way of getting a consistent development enviroment is to use Docker.
 need Docker and docker-compose installed locally (install it 
 [from here](https://store.docker.com/search?type=edition&offering=community)).
 
-## Setup
+## Setups
 
 Copy `hsf/dev_settings.py.example` to `hsf/dev_settings.py`.
 
